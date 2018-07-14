@@ -1,8 +1,5 @@
-# flutter_app_noti
+# Flutter Local Notification
 
-A new Flutter application.
+Youtube : https://www.youtube.com/watch?v=n8-dGz1yNC8
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Mediium : https://medium.com/@nitishk72/flutter-local-notification-1e43a353877b
